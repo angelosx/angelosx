@@ -4,7 +4,6 @@
 
 - 🔭 Apaixonado por tecnologia
 - 🌱 Estudante de Analise Desenvolvimento de Sistemas
-- 📫 Contate-me no email:angeloxavier17@yahoo.com.br
 - 
 div align="center">
   <a href="https://github.com/angelosx">
